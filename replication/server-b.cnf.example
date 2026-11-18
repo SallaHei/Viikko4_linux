@@ -1,0 +1,6 @@
+# Sanitized MariaDB replica configuration
+# Server B
+
+[mariadbd]
+server-id = 2
+read_only = ON
