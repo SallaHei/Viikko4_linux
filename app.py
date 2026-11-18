@@ -20,7 +20,7 @@ HTML = """
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Weekly Assignment 4</title>
+    <title>Viikko 4</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -45,7 +45,7 @@ HTML = """
 </head>
 <body>
 <div class="container">
-    <h1>Weekly Assignment 4</h1>
+    <h1>Viikko 4</h1>
     <h2>Server B - Read-only replica</h2>
 
     <p>This server displays data from its local MariaDB replica.</p>
